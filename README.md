@@ -17,7 +17,6 @@ This Python project is a versatile data scraper designed to extract information 
 - Python 3.x
 - BeautifulSoup
 - psycopg2
-- [Other dependencies as needed]
 
 ## Usage
 
